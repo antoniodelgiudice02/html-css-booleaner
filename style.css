@@ -1,0 +1,16 @@
+header{
+    background:url(./img/pattern.png);
+    background-color: lightseagreen;
+    height: 170px;
+}
+
+#Booleaner{
+    display: inline-block;
+    font-size: 50px;
+    margin: 100px 0px 0px 20px;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    font-family: 'Roboto Slab', serif;
+    
+}
+
