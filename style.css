@@ -17,7 +17,7 @@ header{
 }
 
 main{
-    width: 100%;
+    width: 70%;
     margin: auto;
 
 }
@@ -75,6 +75,8 @@ table {
 
 footer{
     margin-top: 60px;
+    width: 70%;
+    margin: auto;
 }
 
 #advise{
@@ -103,4 +105,12 @@ div>span{
     font-size: 30px;
 }
 
+#tim1{
+    display: inline-block;
+    width: 53%;
+}
 
+#tim2{
+    display: inline-block;
+    width: 45%;
+}
