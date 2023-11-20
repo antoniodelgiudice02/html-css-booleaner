@@ -2,7 +2,7 @@ header{
     background:url(./img/pattern.png);
     background-color: lightseagreen;
     height: 170px;
-    width: 60%;
+    width: 100%;
     margin: auto;
 }
 
@@ -17,7 +17,7 @@ header{
 }
 
 main{
-    width: 60%;
+    width: 100%;
     margin: auto;
 
 }
@@ -38,5 +38,9 @@ a{
 
 #date{
     font-size: 15px;
+}
+
+figcaption{
+    font-size: 13px;
 }
 
