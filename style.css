@@ -44,3 +44,12 @@ figcaption{
     font-size: 13px;
 }
 
+.important{
+    background-color: yellow;
+}
+
+ul{
+    padding: 0;
+    margin-left: 20px;
+    margin-top: 30px;
+}
