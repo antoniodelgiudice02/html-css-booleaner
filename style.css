@@ -2,6 +2,8 @@ header{
     background:url(./img/pattern.png);
     background-color: lightseagreen;
     height: 170px;
+    width: 60%;
+    margin: auto;
 }
 
 #Booleaner{
@@ -12,5 +14,29 @@ header{
     text-shadow: 2px 2px 5px black;
     font-family: 'Roboto Slab', serif;
     
+}
+
+main{
+    width: 60%;
+    margin: auto;
+
+}
+
+h2{
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+.credits{
+    font-style: normal;
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+}
+
+#date{
+    font-size: 15px;
 }
 
