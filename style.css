@@ -72,6 +72,35 @@ table {
 .tabella{
     background-color: rgb(150, 195, 212);
 }
+
+footer{
+    margin-top: 60px;
+}
+
+#advise{
+    color: grey;
+    font-size: 20px;
+}
+
+.img1{
+    margin-top: 30px;
+    background-image: url(./img/monitor.jpg);
+    width: 312px;
+    height: 208px;
     
+}
+
+.img2{
+    margin-top: 30px;
+    background-image: url(./img/graph.jpg);
+    width: 311px;
+    height: 207px;
+}
+
+div>span{
+    color: white;
+    margin-left: 10px;
+    font-size: 30px;
+}
 
 
